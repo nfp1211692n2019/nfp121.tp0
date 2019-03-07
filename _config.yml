@@ -13,6 +13,7 @@ google_analytics: UA-29708002-2
 
 repository: ISSAE/nfp121.tp0
 
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
